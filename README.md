@@ -1,21 +1,11 @@
-# MY STATS (There are pathetic) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahamedrajib1997&theme=algolia)
-
 
 # Hi 👋 I am Rajib 
-I am a software engineer at [Elucidata](https://elucidata.io/), where I specialize in solving complex biomedical data problems using cutting-edge technology and tools.
-
-- 🌐 Visit my [portfolio website](https://pr2tik1.github.io/) for more information and to get in touch.
-- 👋 Check out my personal [blog](https://pr2tik1.github.io/blog/) for articles and insights.
-- ✍️ Follow me on [Medium](https://pr2tik1.medium.com/) for more written content.
 
 ---
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1" width="400">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahamedrajib1997&theme=algolia)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width="400">
@@ -49,4 +39,3 @@ I am a software engineer at [Elucidata](https://elucidata.io/), where I speciali
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
   </a>
 </p>
-

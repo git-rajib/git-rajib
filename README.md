@@ -1,6 +1,6 @@
 # MY STATS (There are pathetic) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahamedrajib1997&theme=algolia)
+
 
 
 # Hi 👋 I am Rajib 
@@ -12,9 +12,8 @@ I am a software engineer at [Elucidata](https://elucidata.io/), where I speciali
 
 ---
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1" width="400">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<p align="center">
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahamedrajib1997&theme=algolia)" width="400">
 </p>
 
 <p align="center">

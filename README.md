@@ -1,12 +1,12 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://hellorajib.com">Md Rajib Ahamed</a></b>
-        </samp>
+  <samp>&gt; Hey There!, I am
+    <b><a target="_blank" href="https://hellorajib.com">Md Rajib Ahamed</a></b>
+  </samp>
 </h3>
 
 
-<p align="center"> 
+<p align="center">
   <samp>
     I am a full stack web appplication developer from <b>Bangladesh</b>
     <br>
@@ -15,24 +15,28 @@
 </p>
 
 <p align="center">
- <a href="https://hellorajib.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="git-rajib" />
- </a>
- <a href="https://linkedin.com/in/rajibahamed97" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git-rajib"/>
- </a>
- <a href="https://dev.to/git-rajib" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="git-rajib" />
- </a>
- <a href="https://twitter.com/rajibahamed" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://facebook.com/rajibahamed97" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="git-rajib"  />
-  </a> 
+  <a href="https://hellorajib.com" target="blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"
+      alt="git-rajib" />
+  </a>
+  <a href="https://linkedin.com/in/rajibahamed97" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="git-rajib" />
+  </a>
+  <a href="https://dev.to/git-rajib" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+      alt="git-rajib" />
+  </a>
+  <a href="https://twitter.com/rajibahamed" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/rajibahamed97" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"
+      alt="git-rajib" />
+  </a>
 </p>
-<br/>
-<br/>
+<br />
+<br />
 
 ## Useable Language
 
@@ -45,22 +49,28 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
-<br/>
-<hr/>
-<br/>
+<br />
+<br />
+<hr />
+<br />
 
 <p align="center">
   <a href="https://github.com/git-rajib">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-rajib&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-rajib&theme=radical"
+      alt="Al Siam's GitHub Contribution" />
   </a>
 </p>
 
-<a align="center"> 
-    <a href="https://github.com/git-rajib"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=git-rajib&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="40%" float="left" /></a>
+<a align="center">
+  <a href="https://github.com/git-rajib"><img alt="Al Siam's Github Stats"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=git-rajib&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+      height="192px" width="40%" float="left" /></a>
 
-<a href="https://github.com/git-rajib">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-rajib&theme=radical&border=7F3FBF&background=0D1117" height="192px" width="40%" float="right" alt="Rajib"/>
+  <a href="https://github.com/git-rajib">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=git-rajib&theme=radical&border=7F3FBF&background=0D1117"
+      height="192px" width="40%" float="right" alt="Rajib" />
   </a>
-  <br/>
+  <br />
 </a>

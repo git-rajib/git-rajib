@@ -4,12 +4,12 @@
 ---
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahamedrajib1997&theme=algolia" width="800">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-rajib&theme=algolia" width="800">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=git-rajib&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=git-rajib&theme=dark&hide_border=true" width="400">
 </p>
 
 ---
